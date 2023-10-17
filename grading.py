@@ -26,7 +26,7 @@ def calculate_grade(math, geo, phic, chem):
 
 math = float(input("Enter marks for Maths: "))
 geo = float(input("Enter marks for Geography: "))
-phic = float(input("Enter marks for Phisics: "))
+phic = float(input("Enter marks for Phisycs: "))
 chem = float(input("Enter marks for Chemistry: "))
 
 calculate_grade(math, geo, phic, chem)
